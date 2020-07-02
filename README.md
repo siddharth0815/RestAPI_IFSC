@@ -1,4 +1,4 @@
-## Django-rest-ifsc
+## RESTAPI_IFSC
 
 A RESTful API written in Django to get any branch details using ifsc code and find all the branches of a bank in a Indian city.
 
