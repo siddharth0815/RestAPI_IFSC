@@ -2,7 +2,7 @@
 
 A RESTful API written in Django to get any branch details using ifsc code and find all the branches of a bank in a Indian city.
 
-###Video demo :
+### Video demo :
 [a link](https://drive.google.com/file/d/1Es0aqwX4w_fqwPiXVj6LrEOGHK5UjA2Y/view?usp=sharing)
 
 ### Setting up
